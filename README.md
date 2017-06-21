@@ -17,3 +17,16 @@
     1. `// Step 1`
     1. `// Step 2`
     1. `// Step 3`
+
+### Restore
+
+1. Restore SharePoint site data
+
+    `$sh restore.sh`
+
+1. Restore the rest that cannot be restored with script
+
+    1. `// Step 1`
+    1. `// Step 2`
+    1. `// Step 3`
+
